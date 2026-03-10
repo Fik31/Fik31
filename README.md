@@ -4,7 +4,7 @@
   <h1>⚔️ Executing flawless logic and turning bugs to ashes 🔥</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
   
-  <img src="https://komarev.com/ghpvc/?username=Fik31&label=Profile%20Views&color=0e121b&style=for-the-badge" alt="Profile Views" />
+  <img src="https://count.getloli.com/@:Fik31?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
 
 <br/>
