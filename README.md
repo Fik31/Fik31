@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="500" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Welcome GIF" />
+  <img width="1000" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Welcome GIF" />
 
   <h1>Hi everyone, I'm Fikri! 👋</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
