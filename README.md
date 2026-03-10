@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Arlecchino GIF" />
+  <img width="500" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Arlecchino GIF" />
 
   <h1>⚔️ Executing flawless logic and turning bugs to ashes 🔥</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
@@ -12,10 +12,10 @@
 ---
 
 ### 👨‍💻 About Me
-Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** dengan minat besar pada pengembangan website. Saya senang mengeksplorasi berbagai bahasa pemrograman untuk memecahkan masalah, namun saat ini ekosistem utama yang saya gunakan untuk pekerjaan adalah **TALL Stack**. 
+I am an **Informatics Student** and a **Full Stack Developer** with a strong passion for architecting scalable web solutions. I thrive on solving complex problems and continuously exploring diverse programming languages to build efficient applications. While my primary expertise lies in Web Development, my curiosity drives me to dive deep into the future of tech.
 
-- 🔭 I’m currently building web applications using the **TALL Stack**.
-- 🌱 I’m currently expanding my knowledge in **Advanced Web Architecture**.
+- 🔭 I’m currently building **robust and dynamic web applications**.
+- 🌱 I’m currently exploring and expanding my knowledge in **Cyber Security, Web3, and Artificial Intelligence**.
 - 💬 Ask me about **Web Development, PHP, and JavaScript**.
 
 <br/>
