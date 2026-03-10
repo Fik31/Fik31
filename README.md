@@ -1,11 +1,14 @@
-<div align="center">
-  <img height="300" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Welcome GIF" />
+<div align="left">
+  <img align="right" width="280" src="https://i.imgflip.com/65efzo.gif" alt="Welcome GIF" />
 
   <h1>Hi everyone, I'm Fikri! 👋</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
   
+  <br/>
   <img src="https://count.getloli.com/@:Fik31?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
+
+<br clear="both"/>
 
 <br/>
 
