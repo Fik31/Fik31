@@ -1,13 +1,15 @@
 <div align="center">
-  <img width="500" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Welcome GIF" />
+  <img width="400" src="https://github.com/Fik31/Fik31/blob/main/Arlecchino%20Genshin%20Impact%20GIF%20-%20Arlecchino%20Genshin%20impact%20Arlecchino%20burst%20-%20Temukan%20&%20Bagikan%20GIF.gif?raw=true" alt="Arlecchino GIF" />
 
   <h1>⚔️ Executing flawless logic and turning bugs to ashes 🔥</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
   
-  <img src="https://count.getloli.com/@:Fik31?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Fik31&label=Profile%20Views&color=0e121b&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
+
+---
 
 ### 👨‍💻 About Me
 Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** dengan minat besar pada pengembangan website. Saya senang mengeksplorasi berbagai bahasa pemrograman untuk memecahkan masalah, namun saat ini ekosistem utama yang saya gunakan untuk pekerjaan adalah **TALL Stack**. 
@@ -18,6 +20,8 @@ Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** denga
 
 <br/>
 
+---
+
 ### 🚀 Tech Stack
 
 **My Primary Stack (TALL):**<br/>
@@ -26,7 +30,7 @@ Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** denga
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 
-<br/>
+<br/><br/>
 
 **Languages & Other Tools:**<br/>
 <div align="left">
@@ -48,6 +52,8 @@ Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** denga
 
 <br/>
 
+---
+
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fik31&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
@@ -63,6 +69,8 @@ Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** denga
 
 <br/>
 
+---
+
 ### 👾 Activity Graph
 <div align="center">
   <picture>
@@ -73,6 +81,8 @@ Saya adalah seorang **Mahasiswa Informatika** dan **Full Stack Developer** denga
 </div>
 
 <br/>
+
+---
 
 ### 🌐 Let's Connect!
 <div align="center">
