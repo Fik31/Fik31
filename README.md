@@ -1,14 +1,11 @@
-<div align="left">
-  <img align="right" width="280" src="https://i.imgflip.com/65efzo.gif" alt="Welcome GIF" />
+<div align="center">
+  <img height="500" src="LINK_GIF_ANDA_DISINI" alt="Welcome GIF" />
 
   <h1>Hi everyone, I'm Fikri! 👋</h1>
   <p><b>Full Stack Developer | Informatics Student</b></p>
   
-  <br/>
   <img src="https://count.getloli.com/@:Fik31?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
-
-<br clear="both"/>
 
 <br/>
 
